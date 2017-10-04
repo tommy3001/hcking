@@ -5,7 +5,7 @@
 This is the code of [hcking.de](http://hcking.de). Hcking.de is an event
 calendar for geeks in and around Cologne.
 
-![Space Dog](doc/space_dog.jpg "Space Dog ready for take off.")
+![Space Dog](public/space_dog.jpg "Space Dog ready for take off.")
 
 If you want to participate, feel free to fork and send us a pull request!
 
